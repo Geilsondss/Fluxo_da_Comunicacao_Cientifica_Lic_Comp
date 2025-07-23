@@ -27,4 +27,4 @@ Este projeto visa analisar o fluxo da comunicação científica na área de Lice
 Se você deseja contribuir para este projeto, por favor, envie um pull request com suas alterações.
 
 <h5>Agradecimentos 🙏</h5>
-Gostaríamos de agradecer ao meu orientador *Jonathan Rosa Moreira* 🙌 pelo apoio e orientação durante o desenvolvimento deste projeto. Seu conhecimento e experiência foram fundamentais para o sucesso deste trabalho 💯. Muito obrigado!
+Gostaríamos de agradecer ao meu orientador **Jonathan Rosa Moreira** 🙌 pelo apoio e orientação durante o desenvolvimento deste projeto. Seu conhecimento e experiência foram fundamentais para o sucesso deste trabalho 💯. Muito obrigado!
