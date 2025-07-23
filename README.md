@@ -1,4 +1,4 @@
-**Fluxo da Comunicação Científica na Área de Licenciatura em Computação no Brasil** 📚💻
+<h2>Fluxo da Comunicação Científica na Área de Licenciatura em Computação no Brasil 📚💻 </h2>
 
 Sobre o Projeto 📄
 Este projeto visa analisar o fluxo da comunicação científica na área de Licenciatura em Computação no Brasil, por meio da análise dos trabalhos de conclusão de curso (TCCs) publicados entre 2015 e 2025 em instituições públicas do Brasil. O objetivo é identificar tendências temáticas, áreas de desenvolvimento (técnica ou educacional) e o perfil dos autores, oferecendo embasamento para decisões curriculares e de gestão acadêmica.
@@ -10,11 +10,11 @@ Objetivos 🎯
 - Produzir um dashboard que permita a visualização e análise das tendências, temas e áreas de pesquisa presente nos trabalhos de conclusão dos graduandos dos cursos de licenciatura em computação das instituições públicas do Brasil 📈
 
 Estrutura do Repositório 📁
-- `data/`: Dados brutos e tratados 📊
-- `reports/`: Passos percorridos 📝
-- `scripts/`: Scripts para extração, limpeza, etc. 💻
-- `dashboard/`: Arquivos relacionados ao Power BI 📊
-- `docs/`: Documentação do projeto (PDFs, imagens, prints do dashboard) 📚
+- `Data/`: Dados brutos e tratados 📊
+- `Reports/`: Passos percorridos 📝
+- `Scripts/`: Scripts para extração, limpeza, etc. 💻
+- `Dashboard/`: Arquivos relacionados ao Power BI 📊
+- `Docs/`: Documentação do projeto (PDFs, imagens, prints do dashboard) 📚
 
 Como Executar o Projeto 🚀
 1. Clone o repositório
