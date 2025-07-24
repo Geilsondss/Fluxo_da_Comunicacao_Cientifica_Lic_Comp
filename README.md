@@ -1,7 +1,7 @@
 <h2>Fluxo da Comunicação Científica na Área de Licenciatura em Computação no Brasil 📚💻 </h2>
 
 Sobre o Projeto 📄
-- Este projeto visa analisar o fluxo da comunicação científica na área de Licenciatura em Computação no Brasil, por meio da análise dos trabalhos de conclusão de curso (TCCs) publicados entre 2015 e 2025 em instituições públicas do Brasil. O objetivo é identificar tendências temáticas, áreas de desenvolvimento (técnica ou educacional) e o perfil dos autores, oferecendo embasamento para decisões curriculares e de gestão acadêmica.
+- Este projeto visa analisar o fluxo da comunicação científica na área de Licenciatura em Computação, por meio da análise dos trabalhos de conclusão de curso (TCCs) publicados entre 2015 e 2025 em instituições públicas do Brasil. O objetivo é identificar tendências temáticas, áreas de desenvolvimento (técnica ou educacional) e o perfil dos autores, oferecendo embasamento para decisões curriculares e de gestão acadêmica.
 
 Objetivos 🎯
 - Apresentar a produção do trabalho de conclusão de curso (TCC) dos graduandos dos cursos de licenciatura em computação das instituições públicas do Brasil 📊
