@@ -27,4 +27,3 @@ No entanto, encontrei algumas dificuldades para localizar exclusivamente os TCCs
 Para tentar resolver essa questão, entrei em contato com o e-mail disponível no site do repositório (repositorio@unb.br), explicando minha demanda e os dados que eu buscava. Em resposta, fui orientado a acessar o site da Biblioteca Digital da Produção Intelectual Discente da Universidade de Brasília (https://bdm.unb.br/), onde os dados dos TCCs estão organizados de forma mais acessível, com filtros adequados e as informações necessárias para minha pesquisa.
 
 ------------------------------------------------------------------------------------------------------------------------
-
