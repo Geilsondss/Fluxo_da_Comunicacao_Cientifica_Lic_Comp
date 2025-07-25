@@ -27,3 +27,15 @@ No entanto, encontrei algumas dificuldades para localizar exclusivamente os TCCs
 Para tentar resolver essa questão, entrei em contato com o e-mail disponível no site do repositório (repositorio@unb.br), explicando minha demanda e os dados que eu buscava. Em resposta, fui orientado a acessar o site da Biblioteca Digital da Produção Intelectual Discente da Universidade de Brasília (https://bdm.unb.br/), onde os dados dos TCCs estão organizados de forma mais acessível, com filtros adequados e as informações necessárias para minha pesquisa.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+***24/07/2025*** - Na etapa de coleta de dados, acessei a seção "Comunidades na BDM" no site (https://bdm.unb.br/), que é organizada em duas categorias principais: "Trabalhos de Conclusão de Curso de Graduação" e "Trabalhos de Conclusão de Curso de Especialização". Obviamente, selecionei a opção da graduação.
+
+Ao acessar essa categoria, os TCCs são apresentados em diversos grupos. Escolhi o grupo "Coleções nesta comunidade", onde os trabalhos estão organizados por cursos da UnB. Dentro dessa organização, selecionei a coleção do curso de Computação, que contava com 156 documentos no momento da coleta.
+
+A plataforma oferece diversas formas de navegação. Como meu recorte temporal abrange os anos de 2015 a 2025, utilizei o filtro "Data de Publicação", ordenando os trabalhos de forma decrescente.
+
+Por ser praticamente meu primeiro contato mais aprofundado com o sistema da BDM, e também devido a problemas técnicos com meu monitor, não consegui avançar muito nesse momento. Consegui inserir apenas 10 registros na tabela TCC. No entanto, durante esse processo, percebi a necessidade de reorganizar o formato de armazenamento dos dados e incluir dois novos atributos no banco de dados: o link do arquivo PDF e o assunto do TCC.
+
+Apesar da visualização ainda superficial, foi possível identificar que 36 TCCs estavam fora do recorte temporal, o que significa que 120 registros da UnB ficaram dentro dos critérios definidos para a pesquisa.
+
+------------------------------------------------------------------------------------------------------------------------
