@@ -39,3 +39,12 @@ Por ser praticamente meu primeiro contato mais aprofundado com o sistema da BDM,
 Apesar da visualização ainda superficial, foi possível identificar que 36 TCCs estavam fora do recorte temporal, o que significa que 120 registros da UnB ficaram dentro dos critérios definidos para a pesquisa.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+***25/07/2025*** – Com o avanço na coleta e análise dos primeiros registros dos TCCs da UnB, percebi a necessidade de adicionar duas novas informações ao banco de dados: *assunto* e *palavras-chave*, que inicalmente adicionei como atibutos simples, porém deveria ser atributos multivalorados, considerando tbm que esses campos aparecem com frequência nos registros dos TCCs e são importantes para analisar os temas mais recorrentes nas pesquisas.
+
+Como um TCC pode ter vários assuntos e várias palavras-chave, esses campos foram tratados como atributos multivalorados, como já mencionado antes, criando assim duas tabelas auxiliares **"Assunto"** e **"Palavra_Chave"**.
+
+Essas tabelas evitam repetições e facilitam futuras análises, como os assuntos mais frequentes por ano ou por instituição.
+
+------------------------------------------------------------------------------------------------------------------------
+
