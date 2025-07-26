@@ -32,8 +32,7 @@ CREATE TABLE IF NOT EXISTS TCC
 (
     id_tcc integer PRIMARY KEY,
     titulo character varying(255),
-    tipo character varying(100),
-    palavras_chave text,
+    link character varying(100),
     data_apresentacao date,
     data_publicacao date,
     area character varying(100),
@@ -50,3 +49,17 @@ CREATE TABLE IF NOT EXISTS Autor
 	FOREIGN KEY (id_tcc) REFERENCES TCC (id_tcc),
 	FOREIGN KEY (id_instituicao) REFERENCES Instituicao (id_instituicao)
 )
+
+CREATE TABLE Assunto (
+  id_tcc INT,
+  assunto VARCHAR(255),
+  PRIMARY KEY (id_tcc, assunto),
+  FOREIGN KEY (id_tcc) REFERENCES TCC(id_tcc)
+);
+
+CREATE TABLE Palavra_Chave (
+  id_tcc INT,
+  palavra_chave VARCHAR(255),
+  PRIMARY KEY (id_tcc, palavra_chave),
+  FOREIGN KEY (id_tcc) REFERENCES TCC(id_tcc)
+);
