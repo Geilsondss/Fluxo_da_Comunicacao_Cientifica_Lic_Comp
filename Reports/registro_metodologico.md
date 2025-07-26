@@ -48,3 +48,18 @@ Essas tabelas evitam repetições e facilitam futuras análises, como os assunto
 
 ------------------------------------------------------------------------------------------------------------------------
 
+***26/07/2025** - Concluí hoje as 19:37 o processo de coleta e tratamento dos dados referentes aos Trabalhos de Conclusão de Curso (TCCs) da Universidade de Brasília (UnB). Todos os dados foram obtidos a partir do site da Biblioteca Digital da Produção Intelectual Discente da UnB (https://bdm.unb.br/), conforme a orientação recebida anteriormente da equipe responsável pelo repositório institucional.
+
+Após a extração, os dados passaram por um processo de tratamento e padronização, utilizando as ferramentas do próprio Excel e, especialmente, do Power Query, para realizar a limpeza e estruturação das informações.
+
+As principais ações realizadas durante o tratamento foram:
+- Remoção de espaços desnecessários (antes ou depois dos textos);
+- Padronização das letras (maiúsculas/minúsculas/título);
+- Separação de atributos multivalorados (como assuntos e palavras-chave) em linhas distintas para facilitar a análise;
+- Reorganização de colunas e tipos de dados para manter consistência com a estrutura relacional do banco de dados.
+
+Com isso, os dados dos TCCs da UnB estão agora completamente coletados e devidamente tratados, prontos para serem integrados à base geral da pesquisa.
+
+------------------------------------------------------------------------------------------------------------------------
+
+
