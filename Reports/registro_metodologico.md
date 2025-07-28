@@ -62,4 +62,10 @@ Com isso, os dados dos TCCs da UnB estão agora completamente coletados e devida
 
 ------------------------------------------------------------------------------------------------------------------------
 
+***28/07/2025** – Hoje, finalizei a etapa de criação visual e estruturação inicial do dashboard da pesquisa. Utilizei o Figma para desenvolver as telas-modelo (templates), incluindo o plano de fundo e os elementos visuais principais. Após a finalização do layout, passei à montagem do dashboard no Power BI, estruturando os dados tratados anteriormente da UnB.
 
+Concluída essa fase, publiquei o dashboard no meu workspace pessoal. O link para acesso público ao painel é: https://app.powerbi.com/view?r=eyJrIjoiZWUyMTU4NTMtNjY1OC00YjllLTk2MzUtZDU5MTA2YTNlZGYxIiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9
+
+Esse painel inicial apresenta os dados da Universidade de Brasília (UnB), incluindo visualizações voltadas para o panorama geral da produção científica e as tendências temáticas observadas nos TCCs.
+
+------------------------------------------------------------------------------------------------------------------------
