@@ -48,7 +48,7 @@ Essas tabelas evitam repetições e facilitam futuras análises, como os assunto
 
 ------------------------------------------------------------------------------------------------------------------------
 
-***26/07/2025** - Concluí hoje as 19:37 o processo de coleta e tratamento dos dados referentes aos Trabalhos de Conclusão de Curso (TCCs) da Universidade de Brasília (UnB). Todos os dados foram obtidos a partir do site da Biblioteca Digital da Produção Intelectual Discente da UnB (https://bdm.unb.br/), conforme a orientação recebida anteriormente da equipe responsável pelo repositório institucional.
+***26/07/2025*** - Concluí hoje as 19:37 o processo de coleta e tratamento dos dados referentes aos Trabalhos de Conclusão de Curso (TCCs) da Universidade de Brasília (UnB). Todos os dados foram obtidos a partir do site da Biblioteca Digital da Produção Intelectual Discente da UnB (https://bdm.unb.br/), conforme a orientação recebida anteriormente da equipe responsável pelo repositório institucional.
 
 Após a extração, os dados passaram por um processo de tratamento e padronização, utilizando as ferramentas do próprio Excel e, especialmente, do Power Query, para realizar a limpeza e estruturação das informações.
 
@@ -62,7 +62,7 @@ Com isso, os dados dos TCCs da UnB estão agora completamente coletados e devida
 
 ------------------------------------------------------------------------------------------------------------------------
 
-***28/07/2025** – Hoje, finalizei a etapa de criação visual e estruturação inicial do dashboard da pesquisa. Utilizei o Figma para desenvolver as telas-modelo (templates), incluindo o plano de fundo e os elementos visuais principais. Após a finalização do layout, passei à montagem do dashboard no Power BI, estruturando os dados tratados anteriormente da UnB.
+***28/07/2025*** – Hoje, finalizei a etapa de criação visual e estruturação inicial do dashboard da pesquisa. Utilizei o Figma para desenvolver as telas-modelo (templates), incluindo o plano de fundo e os elementos visuais principais. Após a finalização do layout, passei à montagem do dashboard no Power BI, estruturando os dados tratados anteriormente da UnB.
 
 Concluída essa fase, publiquei o dashboard no meu workspace pessoal. O link para acesso público ao painel é: https://app.powerbi.com/view?r=eyJrIjoiZWUyMTU4NTMtNjY1OC00YjllLTk2MzUtZDU5MTA2YTNlZGYxIiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9
 
