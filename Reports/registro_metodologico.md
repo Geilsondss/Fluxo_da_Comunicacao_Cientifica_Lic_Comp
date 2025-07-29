@@ -69,3 +69,5 @@ Concluída essa fase, publiquei o dashboard no meu workspace pessoal. O link par
 Esse painel inicial apresenta os dados da Universidade de Brasília (UnB), incluindo visualizações voltadas para o panorama geral da produção científica e as tendências temáticas observadas nos TCCs.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+**29/07/2025*** - Link para apresentação https://www.canva.com/design/DAGuj9JxmlI/Yz8hE7vKcrNFLNtX3nJTSA/edit?utm_content=DAGuj9JxmlI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
