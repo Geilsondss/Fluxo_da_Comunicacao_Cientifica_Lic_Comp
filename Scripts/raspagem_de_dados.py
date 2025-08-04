@@ -1,3 +1,5 @@
+#Código especificamente para o repositorio da Universidade Estadual do Ceará
+
 TEXTO = []
 AUTOR = []
 ASSUNTO = []
@@ -31,4 +33,5 @@ print('')
 print('ASSUNTO')
 for h in ASSUNTO:
     print(h)
+
         
