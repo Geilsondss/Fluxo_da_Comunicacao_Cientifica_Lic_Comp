@@ -71,3 +71,9 @@ Esse painel inicial apresenta os dados da Universidade de Brasília (UnB), inclu
 ------------------------------------------------------------------------------------------------------------------------
 
 **29/07/2025*** - Link para apresentação https://www.canva.com/design/DAGuj9JxmlI/Yz8hE7vKcrNFLNtX3nJTSA/edit?utm_content=DAGuj9JxmlI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+------------------------------------------------------------------------------------------------------------------------
+
+**14/08/2025** - Enviei e-mails para as instituições solicitando a confirmação do repositório utilizado como base de dados, a fim de garantir maior credibilidade e respaldo às informações utilizadas.
+
+------------------------------------------------------------------------------------------------------------------------
