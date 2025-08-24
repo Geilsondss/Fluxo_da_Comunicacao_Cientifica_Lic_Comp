@@ -77,3 +77,8 @@ Esse painel inicial apresenta os dados da Universidade de Brasília (UnB), inclu
 **14/08/2025** - Enviei e-mails para as instituições solicitando a confirmação do repositório utilizado como base de dados, a fim de garantir maior credibilidade e respaldo às informações utilizadas.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+**23/08/2025** - Acredito que seja necessário detalhar melhor o arquivo "raspagem_de_dados.py" presente na pasta SCRIPTs. O motivo de sempre citar raspagem de dados com aspas "RASPAGEM" é porque o processo que aplico não é raspagem de dados no sentido estrito, pois não utilizo bibliotecas de scraping para acessar e extrair informações diretamente dos sites. O que faço é copiar manualmente os conteúdos dos repositórios, o que gera uma massa de dados bruta com informações úteis e não úteis. Em seguida, organizo esse material em uma planilha do Excel e aplico códigos em Python para separar e estruturar os elementos de interesse, como título, autor, assunto e data. Cada repositório possui sua própria formatação e, em alguns casos, nenhum padrão definido, o que exige a criação de códigos específicos para cada situação. Dessa forma, aplico conceitos de raspagem de dados voltados à limpeza, organização e filtragem das informações, mas com um processo semiautomático e adaptado a cada caso.
+
+------------------------------------------------------------------------------------------------------------------------
+
