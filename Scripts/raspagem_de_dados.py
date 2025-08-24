@@ -1,4 +1,4 @@
-#SUGIRO QUE LEIA A ANOTAÇÃO "Drescricao_Raspagem" PARA ENTENDER O SENTIDO DESTE SCRIPT PYTHON
+#SUGIRO QUE LEIA A ANOTAÇÃO "registro_metodologico.md" PARA ENTENDER MELHOR ESTE SCRIPT
 
 #Código especificamente para o repositorio da Universidade Estadual do Ceará
 TEXTO = []
@@ -67,4 +67,5 @@ print('DATA')
 for h in DATA:
     print(h)
         
+
 
