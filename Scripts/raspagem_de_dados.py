@@ -1,3 +1,5 @@
+#SUGIRO QUE LEIA A ANOTAÇÃO "Drescricao_Raspagem" PARA ENTENDER O SENTIDO DESTE SCRIPT PYTHON
+
 #Código especificamente para o repositorio da Universidade Estadual do Ceará
 TEXTO = []
 AUTOR = []
