@@ -67,5 +67,43 @@ print('DATA')
 for h in DATA:
     print(h)
         
+#Código especificamente para o repositorio da UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
+TEXTO = []
+
+AUTOR = []
+DATA = []
+TITULO = []
+CONT = 0
+
+for i in TEXTO:
+    if CONT == 0:
+        TITULO.append(i)
+        CONT = 1
+        
+    elif CONT == 1:
+        indice_abre_parentese = i.rfind('(')
+        indice_fecha_parentese = i.rfind(')')
+        indice_ponto_virgula = i.find(';')
+        AUTOR.append(i[indice_fecha_parentese+1:indice_ponto_virgula])
+        DATA.append(i[indice_abre_parentese+1:indice_fecha_parentese])
+        CONT = 2
+    elif CONT == 2:
+        CONT = 0
+
+print('TITULO')
+for j in TITULO:
+    print(j)
+
+print('')
+
+print('AUTOR')
+for j in AUTOR:
+    print(j)
+    
+print('')
+print('DATA')
+for h in DATA:
+    print(h)
+
 
 
